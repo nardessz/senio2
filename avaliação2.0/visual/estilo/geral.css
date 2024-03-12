@@ -1,0 +1,137 @@
+body{
+    background-image: url(https://media.licdn.com/dms/image/C4E03AQEheTlyKqRu3g/profile-displayphoto-shrink_800_800/0/1537202944087?e=2147483647&v=beta&t=LyTJCqQCzm8LR0rOCJBstjV2f2clj824OqO3vcXe1ZA);
+
+}
+
+.top1{
+text-align: center;
+
+}
+
+.mari1 {
+    background-color: aquamarine;
+    margin-left: 50px;
+    margin-right: 1625px;
+}
+
+.mari2 {
+    background-color: blueviolet;
+    margin-left: 100px;
+    margin-right: 1575px;
+}
+
+.mari3 {
+    background-color: cornflowerblue;
+    margin-left: 150px;
+    margin-right: 1525px;
+}
+
+.mari4 {
+    background-color: darkgoldenrod;
+    margin-left: 200px;
+    margin-right: 1475px;
+}
+
+.mari5 {
+    background-color: darkorchid;
+    margin-left: 250px;
+    margin-right: 1425px;
+}
+
+.mari6 {
+    background-color: firebrick;
+    margin-left: 300px;
+    margin-right: 1375px;
+}
+
+.mari7 {
+    background-color: forestgreen;
+    margin-left: 350px;
+    margin-right: 1325px;
+}
+
+.mari8 {
+    background-color: goldenrod;
+    margin-left: 400px;
+    margin-right: 1275px;
+}
+
+.mari9 {
+    background-color: hotpink;
+    margin-left: 450px;
+    margin-right: 1225px;
+}
+
+.mari10 {
+    background-color: indianred;
+    margin-left: 500px;
+    margin-right: 1175px;
+}
+
+.mari11 {
+    background-color: mediumaquamarine;
+    margin-left: 550px;
+    margin-right: 1125px;
+}
+
+.mari12 {
+    background-color: mediumblue;
+    margin-left: 600px;
+    margin-right: 1075px;
+}
+
+.mari13 {
+    background-color: mediumorchid;
+    margin-left: 650px;
+    margin-right: 1025px;
+}
+
+.mari14 {
+    background-color: mediumseagreen;
+    margin-left: 700px;
+    margin-right: 975px;
+}
+
+.mari15 {
+    background-color: mediumspringgreen;
+    margin-left: 750px;
+    margin-right: 925px;
+}
+
+.mari16 {
+    background-color: mediumvioletred;
+    margin-left: 800px;
+    margin-right: 875px;
+}
+
+.mari17 {
+    background-color: midnightblue;
+    margin-left: 850px;
+    margin-right: 825px;
+}
+
+.mari18 {
+    background-color: olive;
+    margin-left: 900px;
+    margin-right: 775px;
+}
+
+.img1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1 img{ 
+    width: 200px;
+    margin-right: 20px;
+}
+
+.img2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.img2 img{
+    width: 200px;
+    display: flex;
+}
